@@ -1,4 +1,4 @@
-# android-app-learn-spoken-english
+# android-app-learn-spoken-english-with-bangla-meaning
 Spoken English is a free smartphone app for learning to Speak English. The app contains lessons that give special attention to English pronunciation and everyday language. With over 100 lessons, 1000 Most Common Phrases, 1500 Most Common Words, Total 2500 common vocabulary and phrase items with Bangla Meanings. Each sentence, words have audio sound clips.
 
 How to help Spoken English?
